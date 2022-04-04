@@ -1,0 +1,12 @@
+.text {
+  text-align: center;
+  color: rgb(205, 126, 115);
+}
+
+.align {
+  margin: auto;
+  display:block;
+  margin-bottom: 15px;
+}
+
+
