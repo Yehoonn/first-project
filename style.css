@@ -1,12 +1,38 @@
-.text {
+body {
+  background-image: url("https://data.1freewallpapers.com/download/red-thread-white-baseball-on-sand-baseball.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: rgba(245, 245, 220, 0.634);
   text-align: center;
-  color: rgb(205, 126, 115);
-}
-
-.align {
+  min-height: 100vh;
+  max-width: 1200px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  font-family: "Black Han Sans", sans-serif;
   margin: auto;
-  display:block;
-  margin-bottom: 15px;
+  display: block;
+  border: 10px solid rgba(92, 210, 90, 0.716);
+  border-radius: 20px;
+  
+
 }
 
+.resetb {
+  style = "margin: auto;"
+  style = "display: block;"
+  style ="width: 100px;"
+  style = "height: 100px;"
+}
 
+.font {
+  font-family: "Black Han Sans", sans-serif;
+}
+
+.it {
+
+  text-align: center;
+}
